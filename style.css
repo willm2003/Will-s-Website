@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+
+header {
+  background:url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2F2016%2F05%2FCherry-blossom-tree-wallpapers-flowers.jpg&f=1&nofb=1&ipt=d69c1d7559e3f9b6599ea803891b1c1f68f569fb17612a7a479b5238ff138a34&ipo=images");
+  background-size: cover;
+  color: black;
+}
